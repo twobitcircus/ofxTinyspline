@@ -3,3 +3,4 @@ project(tinyspline)
 
 add_subdirectory(library)
 add_subdirectory(example)
+add_subdirectory(unit-tests)
