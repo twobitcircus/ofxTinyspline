@@ -1,3 +1,6 @@
+##openFrameworks addon note
+This repo is a fork of [retuxx/tinyspline]](https://github.com/retuxx/tinyspline) with some housekeeping to make it easy to incorporate into openFrameworks applications.  Kinda just works, though.  Going to add an oF C++ example shortly.  For time the time being though I've had success using the C interface.
+
 TinySpline
 ========
 
